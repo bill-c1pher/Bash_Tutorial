@@ -23,5 +23,4 @@ printf "\n"
 printf "%s\t" {1..10}
 printf "\n"
 
-# Use printf when escape sequences are required, else use echo
 # Use printf for printing a new line: printf "\n"
