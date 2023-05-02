@@ -18,7 +18,7 @@ declare green="\033[32m"
 declare bold="\033[1m"
 declare normal="\033[0m"
 
-declare log_entry
+declare log_entry=""
 log_entry+="System report for ${red}${bold}$USER${normal} generated on ${green}${bold}$timestamp${normal}\n\n"
 log_entry+="\t${bold}Machine Type${normal}\t$MACHTYPE\n"
 log_entry+="\t${bold}Bash Version${normal}\t$BASH_VERSION\n"
