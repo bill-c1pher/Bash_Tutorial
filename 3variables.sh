@@ -3,7 +3,7 @@
 # This bash script demonstrates the use of variables
 
 
-# Variables are named with a sequence of alphanumeric characters
+# Variables are named with a sequence of alphanumeric characters and underscores
 # variable names must start with a letter
 
 string1=hello
