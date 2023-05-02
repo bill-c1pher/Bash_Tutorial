@@ -2,7 +2,7 @@
 
 # COLORED AND STYLIZED TEXT
 
-echo -e "\033[34;42mColored Text\033[0m" # -e to use escape sequences with echo, but printf is better with escape sequences
+echo -e "\033[34;42mColored Text\033[0m" # -e to use escape sequences with echo
 printf "\n"
 
 echo -e "\033[5;1;34;41mBlinking Colored Text\033[0m\n\n"
