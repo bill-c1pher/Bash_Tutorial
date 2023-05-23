@@ -1,10 +1,10 @@
-#!/usr/bin/env bash
-
 # Use variables, command substitution, and string formatting
 # to make a small summary of some system information (system report).
 # Print the result to the screen and write some information to a file.
 
 #-----------------------------------SOLUTION------------------------------------
+
+#!/usr/bin/env bash
 
 #name of log file
 declare log_file="sysreport.log"
